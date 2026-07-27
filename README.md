@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner The Climber -->
-  <img src="https://hanamidangos.blog/wp-content/uploads/2026/03/THE-CLIMBER-RESENA-Imagen-Portada-Hanami-Dango.jpg" width="100%" height="300" />
+  <img src="https://hanamidangos.blog/wp-content/uploads/2026/03/THE-CLIMBER-RESENA-Imagen-Portada-Hanami-Dango.jpg" width="100%" height="200" />
   
   <br><br>
   
@@ -14,7 +14,7 @@
   <br><br>
   
   <!-- Contador de Views -->
- <img src="https://komarev.com/ghpvc/?username=Isaque-Fp&color=ffffff&style=flat-square" alt="Profile views" pointer-events="none" />
+<img src="https://komarev.com/ghpvc/?username=Isaque-Fp&color=000000&style=flat-square" alt="Profile views" pointer-events="none" />
 </div>
 
 <br>
