@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner The Climber -->
-  <img src="https://hanamidangos.blog/wp-content/uploads/2026/03/THE-CLIMBER-RESENA-Imagen-Portada-Hanami-Dango.jpg" width="100%" height="200" />
+  <img src="https://hanamidangos.blog/wp-content/uploads/2026/03/THE-CLIMBER-RESENA-Imagen-Portada-Hanami-Dango.jpg" width="200%" height="300" />
   
   <br><br>
   
